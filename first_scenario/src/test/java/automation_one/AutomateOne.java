@@ -19,6 +19,6 @@ public class AutomateOne {
 
         WebElement buttonBrowse = driver.findElement(By.xpath("//*[@id=\"page-top\"]/section/div/div/div/a[1]"));
         buttonBrowse.click();
-        
+
     }
 }
