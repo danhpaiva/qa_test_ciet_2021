@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class AutomateOne {
     @Test
-    public void helloWorld() {
+    public void searchQuestionNoExist() {
         WebDriver driver = new ChromeDriver();
 
         driver.navigate().to("https://opentdb.com/");
@@ -20,5 +20,14 @@ public class AutomateOne {
         WebElement buttonBrowse = driver.findElement(By.xpath("//*[@id=\"page-top\"]/section/div/div/div/a[1]"));
         buttonBrowse.click();
 
+        WebElement searchInput = driver.findElement(By.id("query"));
+
+        searchInput.sendKeys("Science: Computers");
+
+        WebElement searchButton = driver.findElement(By.xpath("//*[@id=\"page-top\"]/div[1]/form/div/button"));
+        searchButton.click();
+
+        WebElement resultNoQuestion = driver.findElement(By.xpath("//*[@id=\"page-top\"]/div[2]/div"));
+        Assert.assertEquals("No questions found.", resultNoQuestion.getText());
     }
 }
