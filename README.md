@@ -1,7 +1,7 @@
 <h1 align="center"> Automated tests using Selenium Web Driver</h1>
 
 <p align="center">
-    <img src="./images/java.png">
+    <img src="./images/java.png" width="150">
 </p>
 
 <p align="center">
