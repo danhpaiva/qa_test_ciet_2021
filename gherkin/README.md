@@ -1,5 +1,12 @@
 <h1 align="center"> Automation Scenarios</h1>
 
+<p>Cada cenário descrito abaixo representa um teste automatizado.</p>
+<p>Os testes estão dentro da pasta:</p>
+
+~~~
+src/test/java/automation
+~~~
+
 <h3>Scenario 01 (AutomationOne)</h3>
 
 *Functionality*: Question Bank Search<br>
