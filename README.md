@@ -22,7 +22,7 @@ This project was built for the conclusion of a work in the “Software Managemen
 In partnership with <a href="https://ciandt.com/br/pt-br/home" target="_blank">Ci&T</a> and <a href="https://www.una.br/" target="_blank">UNA</a>, we use the Java programming language and the Selenium WebDriver to automate some tests.<br>
 We also use the JUnit framework to help each other with test cases.<br>
 As an appropriate language for describing the scenarios, we use Gherkin.<br>
-For more details: <a href="https://github.com/danhpaiva/test_ciet_java_selenium/tree/main/info" target="_blank">read here</a> .
+For more details: <a href="https://github.com/danhpaiva/test_ciet_java_selenium/tree/main/info" target="_blank">read here (pt-br)</a> .
 
 <h2 id=instalacao>:clipboard: Installation</h2>
 
