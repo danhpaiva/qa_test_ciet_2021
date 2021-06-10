@@ -1,2 +1,5 @@
-package automation_three;public class AutomationThree {
+package automation_three;
+
+public class AutomationThree {
+
 }
