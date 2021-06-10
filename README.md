@@ -1,7 +1,7 @@
 <h1 align="center"> Automated tests using Selenium WebDriver</h1>
 
 <p align="center">
-    <img src=".info/images/java.png" width="150">
+    <img src="./info/images/java.png" width="150">
 </p>
 
 <p align="center">
@@ -27,7 +27,12 @@ For more details: <a href="https://github.com/danhpaiva/test_ciet_java_selenium/
 <h2 id=instalacao>:clipboard: Installation</h2>
 
 1. Clone the repo.
-2. Go to the "src/test/java/automation" folder
+2. Go to the folder:
+
+~~~
+src/test/java/automation
+~~~
+
 3. Each ".java" file is an automation using the Selenium WebDriver.
 4. Open the file and run the specific test.
 
