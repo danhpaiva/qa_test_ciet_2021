@@ -1,7 +1,7 @@
 <h1 align="center"> Automation Scenarios</h1>
 
-<p>Cada cenário descrito abaixo representa um teste automatizado.</p>
-<p>Os testes estão dentro da pasta:</p>
+<p>Each scenario described below represents an automated test.<br>
+The tests are inside the folder:</p>
 
 ~~~
 src/test/java/automation
