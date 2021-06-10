@@ -39,6 +39,7 @@ The following tools were used in the construction of the project:
 - Gherkin
 - Selenium WebDriver: <a href="https://www.selenium.dev/documentation/en/webdriver/">Site Official</a>
 - JUnit: <a href="https://junit.org/junit5/">Site Official</a>
+- Open Trivia DB: <a href="https://junit.org/junit5/">Free to use, user-contributed trivia question database.</a>
 
 <h2 id=autor>:grin: Author</h2>
 
