@@ -1,4 +1,4 @@
-Second Scenario
+Scenario 02
 
 Functionality: Search by category
 Scenario: Search for items by category in the question bank
