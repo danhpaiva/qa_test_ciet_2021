@@ -5,39 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9b74086-b6b4-4c81-ab67-f3333df7de28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automation/AutomationOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automation/AutomationThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/automation/AutomationTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/gherkin_01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/src/test/java/automation_one/AutomateOne.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/src/test/java/automation_three/AutomationThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_scenario/src/test/java/automation_two/AutomateTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_scenario/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_scenario/gherkin_02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_scenario/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/third_scenario/gherkin_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
