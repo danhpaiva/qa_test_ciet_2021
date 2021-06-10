@@ -18,10 +18,11 @@
 </h2>
 
 <h2 id=objetivo>:scroll: Objective</h2>
-This project was built to complete the course "Software Management and Quality".<br>
+This project was built for the conclusion of a work in the “Software Management and Quality” discipline.<br>
 In partnership with <a href="https://ciandt.com/br/pt-br/home" target="_blank">Ci&T</a> and <a href="https://www.una.br/" target="_blank">UNA</a>, we use the Java programming language and the Selenium WebDriver to automate some tests.<br>
+We also use the JUnit framework to help each other with test cases.<br>
 As an appropriate language for describing the scenarios, we use Gherkin.<br>
-For more details: <a href="https://bitbucket.org/dhiego_ciandt/qa-test/src/main/" target="_blank">read here.</a> .
+For more details: <a href="https://bitbucket.org/dhiego_ciandt/qa-test/src/main/" target="_blank">read here</a> .
 
 <h2 id=instalacao>:clipboard: Installation</h2>
 
