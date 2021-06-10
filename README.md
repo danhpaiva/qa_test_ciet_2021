@@ -1,4 +1,4 @@
-<h1 align="center"> Automated tests using Selenium Web Driver</h1>
+<h1 align="center"> Automated tests using Selenium WebDriver</h1>
 
 <p align="center">
     <img src="./images/java.png" width="150">
@@ -19,14 +19,14 @@
 
 <h2 id=objetivo>:scroll: Objective</h2>
 This project was built to complete the course "Software Management and Quality".<br>
-In partnership with Ci&T, we use the Java programming language and the Selenium Web Driver to automate some tests.<br>
+In partnership with Ci&T, we use the Java programming language and the Selenium WebDriver to automate some tests.<br>
 As an appropriate language for describing the scenarios, we use Gherkin.<br>
 
 <h2 id=instalacao>:clipboard: Installation</h2>
 
 1. Clone the repo.
 2. Go to the "src/test/java/automation" folder
-3. Each ".java" file is an automation using the Selenium Web Driver.
+3. Each ".java" file is an automation using the Selenium WebDriver.
 4. Open the file and run the specific test.
 
 <h2 id=tecnologias>:toolbox: Technology</h2>
@@ -37,6 +37,8 @@ The following tools were used in the construction of the project:
 - Driver for Browser: <a href="https://chromedriver.chromium.org/downloads">chromedriver</a>
 - Java JDK: <a href="https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html">1.8</a>
 - Gherkin
+- Selenium WebDriver: <a href="https://www.selenium.dev/documentation/en/webdriver/">Site Official</a>
+- JUnit: <a href="https://junit.org/junit5/">Site Official</a>
 
 <h2 id=autor>:grin: Author</h2>
 
