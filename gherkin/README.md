@@ -7,7 +7,7 @@ The tests are inside the folder:</p>
 src/test/java/automation
 ~~~
 
-<h3>Scenario 01 (AutomationOne.java)</h3>
+<h3>Scenario 01 - AutomationOne.java</h3>
 
 *Functionality*: Question Bank Search<br>
 *Scenario*: Search by nonexistent question<br>
@@ -16,7 +16,7 @@ And I type 'Science: Computers' into the search field.<br>
 *When* I click the search button<br>
 *Then* I get an error message with the text 'No questions found.'<br>
 
-<h3>Scenario 02 (AutomationTwo.java)</h3>
+<h3>Scenario 02 - AutomationTwo.java</h3>
 
 *Functionality*: Search by category <br>
 *Scenario*: Search for items by category in the question bank<br>
@@ -26,7 +26,7 @@ And select the 'Category' option<br>
 *When* I click the search button<br>
 *Then* I visualize a table with 25 items and the page control.<br>
 
-<h3>Scenario 03 (AutomationThree.java)</h3>
+<h3>Scenario 03 - AutomationThree.java</h3>
 
 *Functionality*: Creating an API route<br>
 *Scenario*: Link building with 10 mid-level questions<br>
